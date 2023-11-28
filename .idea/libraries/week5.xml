@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="week5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/week5/Affirmations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/week5/TipTime.zip!/" />
+      <root url="jar://$PROJECT_DIR$/week5/android-basics-kotlin-affirmations-app.zip!/" />
+      <root url="jar://$PROJECT_DIR$/week5/android-basics-kotlin-dogglers-app.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

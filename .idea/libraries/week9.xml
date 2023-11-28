@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="week9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/week9/Backstacks.zip!/" />
+      <root url="jar://$PROJECT_DIR$/week9/MyApplication.zip!/" />
+      <root url="jar://$PROJECT_DIR$/week9/android-basics-kotlin-dessert-clicker-app-main.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
